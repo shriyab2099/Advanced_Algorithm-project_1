@@ -9,11 +9,11 @@ The Circular Tour Finder is a Python script that calculates the starting city fo
 
 2. Open a text editor or integrated development environment (IDE) and create a new Python file.
 
-3. Copy and paste the code from `Unique_starting_city.py` into your Python file.
+3. Copy and paste the code from `Unique_starting_city.py` into your Python file OR Download the python file.
 
 4. Modify the values of `city_distances`, `fuel`, and `mpg` in the code to match your specific input. You can replace the sample values with your own data.
 
-5. Save the Python file with an appropriate name, such as `circular_tour_solver.py`.
+5. Save the Python file with an appropriate name, such as `Unique_starting_city.py`.
 
 6. Run the Python script using your preferred Python interpreter or command prompt.
 
