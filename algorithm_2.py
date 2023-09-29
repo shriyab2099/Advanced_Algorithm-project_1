@@ -1,3 +1,24 @@
+#Team 6: Aria Askaryar, Shriya Bannikop
+"""
+Algorithm 2: Unique Starting City
+
+You have a series of cities arranged in a circle, each with its own gas 
+station. Given the distances between the cities and the mileage your car
+ gets per gallon of fuel, you need to determine which city to start from 
+ so that you can complete a full circle back to the starting city, 
+ refueling at each city along the way, and ending with 0 or more gallons 
+ of fuel left. This optimal city is termed the "preferred starting city," 
+ and there is always one such city in the given problem.
+
+Functions:
+    - unique_starting_city: identifies a unique city from which one can start a circular tour, given the fuel availability, distances between cities, and the mileage of the vehicle.
+    
+Usage example:
+    city_distances = [5, 25, 15, 10, 15]
+    fuel = [1, 2, 1, 0, 3]
+    mpg = 10
+    result = unique_starting_city(city_distances, fuel, mpg)
+"""
 
 # Function to find the unique starting city for a circular tour
 def unique_starting_city(city_distances, fuel, mpg):
