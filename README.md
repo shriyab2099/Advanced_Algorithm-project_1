@@ -29,7 +29,6 @@ The Island problem is a Python script that determines the size of the largest la
 water cell (represented by 1) to a land cell (represented by 0) in a given matrix.
 
 ## Example Input
-```python
 matrix = [[0, 1, 1], [0, 0, 1], [1, 1, 0]]
 
 # Algorithm 2: Unique Starting City
