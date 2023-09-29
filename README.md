@@ -1,5 +1,27 @@
 # Advanced_Algorithm-project_1
 
+# Usage
+1. Ensure you have Python installed on your system.
+
+2. Open a text editor or integrated development environment (IDE) and create a new Python file.
+
+3. Download the python files `algorithm1.py` and `algorithm2.py`
+
+6. Save the Python file with an appropriate name, such as `algorithm1.py` and `algorithm2.py`.
+   
+8. You can replace the Example Input values with your own data.
+
+9. Run the Python script using your preferred Python interpreter or command prompt.
+
+To Run the program using the command on terminal: 
+python algorithm1.py
+python algorithm2.py
+
+if this didnt work use 
+python3 algorithm1.py
+python3 algorithm2.py
+
+
 # Algorithm 1: The Island problem
 
 ## Description
@@ -20,19 +42,6 @@ city_distances = [5, 25, 15, 10, 15]
 fuel = [1, 2, 1, 0, 3]
 mpg = 10
 
-# Usage
-1. Ensure you have Python installed on your system.
 
-2. Open a text editor or integrated development environment (IDE) and create a new Python file.
-
-3. Copy and paste the code from `Unique_starting_city.py` into your Python file OR Download the python file.
-
-4. Modify the values of `city_distances`, `fuel`, and `mpg` in the code to match your specific input. You can replace the sample values with your own data.
-
-5. Save the Python file with an appropriate name, such as `Unique_starting_city.py`.
-
-6. Run the Python script using your preferred Python interpreter or command prompt.
-
-7. The script will calculate and display the starting city for a circular tour based on the provided input.
 
 
