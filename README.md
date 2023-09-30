@@ -1,17 +1,23 @@
 # Advanced_Algorithm-project_1
 
 # Usage
-1. Ensure you have Python installed on your system.
+1. Ensure Python3 is installed on your machine.
+- https://www.python.org/download/releases/2.5/msi/
 
-2. Open a text editor or integrated development environment (IDE) and create a new Python file.
+2. Additionally you will need the pandas library installed to see the dataframe visualization
+- pip3 install pandas
+or
+- pip install pandas
+  
+3.  Open in editor of your choice, we used VScode open the folder you downloaded from GitHub
 
-3. Download the python files `algorithm1.py` and `algorithm2.py`
+4. Download the python files `algorithm_1.py` and `algorithm_2.py`
 
-6. Save the Python file with an appropriate name, such as `algorithm1.py` and `algorithm2.py`.
+5. Save the Python file with an appropriate name, such as `algorithm_1.py` and `algorithm_2.py`.
    
-8. You can replace the Example Input values with your own data.
+6. You can replace the Example Input values with your own data.
 
-9. Run the Python script using your preferred Python interpreter or command prompt.
+7. Run the Python script using your preferred Python interpreter or command prompt.
 
 To Run the program using the command on terminal: 
 python algorithm1.py
