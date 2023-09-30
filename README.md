@@ -20,12 +20,12 @@ or
 7. Run the Python script using your preferred Python interpreter or command prompt.
 
 To Run the program using the command on terminal: 
-python algorithm1.py
-python algorithm2.py
+-python algorithm1.py
+-python algorithm2.py
 
 if this didnt work use 
-python3 algorithm1.py
-python3 algorithm2.py
+-python3 algorithm1.py
+-python3 algorithm2.py
 
 
 # Algorithm 1: The Island problem
